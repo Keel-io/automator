@@ -1,4 +1,4 @@
-from packagename.version import Version
+from automator.version import Version
 from tests import *
 from tests.helpers import *
 

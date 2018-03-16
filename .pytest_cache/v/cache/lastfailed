@@ -1,0 +1,5 @@
+{
+  "tests/unit/test_cleaner.py::TestCleaner::test_insert_int": true,
+  "tests/unit/test_cleaner.py::TestCleaner::test_installer": true,
+  "tests/unit/test_cleaner.py::TestCleaner::test_runQueries": true
+}

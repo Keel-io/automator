@@ -1,3 +1,6 @@
+mock
+nose
 pytest
 pytest-cov
-psycopg2
+psycopg2-binary
+testing.postgresql
