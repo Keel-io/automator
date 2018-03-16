@@ -87,7 +87,7 @@ Queries are stores in your database with the following fields.
 
 ### Automator_logs
 
-When someone visits your website, Ahoy creates a visit with lots of useful information.
+When you run your SQL queries, Automator creates a log with useful information (more details coming soon).
 
 - **category**
 - **start_time**
