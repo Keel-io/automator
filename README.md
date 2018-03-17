@@ -2,6 +2,8 @@ Automator
 ==========================
 
 [![Build Status](https://travis-ci.org/Keel-io/automator.png?branch=master)](https://travis-ci.org/Keel-io/automator.png)
+
+
 :fire: Data cleaning made easy
 
 80% of data scientists' time is spent finding, cleansing and organizing data, which leaves only 20 percent to actually perform analysis. Keep a pipeline of SQL statements in a Postgres table that can be automatically called to clean data.
