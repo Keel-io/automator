@@ -96,7 +96,7 @@ When you run your SQL queries, Automator creates a log with useful information (
 
 ## Security
 
-It's a great practice to create a separate Postgres user that Automator uses. Once created, you can restrict which tables it has access to (see tutorial)[https://www.tutorialspoint.com/postgresql/postgresql_privileges.htm].
+It's a great practice to create a separate Postgres user that Automator uses. Once created, you can restrict which tables it has access to [see tutorial](https://www.tutorialspoint.com/postgresql/postgresql_privileges.htm).
 
 ## Package
 
